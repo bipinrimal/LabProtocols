@@ -1,4 +1,5 @@
-# Bacterial Growth Media (Adapted from https://github.com/jbisanz/WetlabProtocols/blob/master/BacterialMedia.md
+# Bacterial Growth Media 
+(Adapted from https://github.com/jbisanz/WetlabProtocols/blob/master/BacterialMedia.md)
 
 ## Brain Heart Infusion + Cysteine + Hemin + Vitamin K + Resazurin (BHI CHVR)
 **Use:** Routine growth of many common human gut commensals. 
