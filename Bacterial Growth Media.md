@@ -5,8 +5,6 @@
 **Use:** Routine growth of many common human gut commensals. 
 **Examples:** *B. fragilis* & *A. mucinphila*
 
-**Use:** Routine growth of many common human gut commensals.
-
 **Instructions:** Mix Water, BHI, and agar (if solid media is desired) and autoclave on 20 minute liquid cycle. Cool media in 55˚C waterbath and add Cysteine, Hemin and Vitamin K3. Add Resazurin if desired.
 
 
