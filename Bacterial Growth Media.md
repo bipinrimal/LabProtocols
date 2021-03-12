@@ -10,9 +10,9 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 400 mL | - | - | - | - |
-| BHI | 14.8 g | BD 237500 | - | 37g/L |
-| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Water | Up to 100 mL | - | - | - | - |
+| BHI | 3.75 g | BD 237500 | - | 37g/L |
+| Agar | 1.5 g | Sigma A5306 | - | 15 g/L |
 | Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v |
 | Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
@@ -103,12 +103,12 @@ Dissolve 25 mg resazurin (Sigma R7017) in 100 mL water and filter sterilize with
 ### Sheeps Blood
 Sheeps blood must be purchased fresh and used generally within 1 month. Avoid use unless necessary.
 
-### Gentamycin (100 mg/mL)
-Dissolve 100 mg Gentamycin (Sigma 87128) in 2 mL Ethanol. Aliquot, and store at -20˚C.
+### Gentamycin (50 mg/mL)
+Dissolve 100 mg Gentamycin (Sigma 87128) in 2 mL DMSO. Aliquot, and store at -20˚C.
 
 ### Erythromycin (10 mg/mL)
-Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -20˚C.
+Dissolve 50 mg erythromycin (Sigma E5389) in 1mL Ethanol. Aliquot and store at -20˚C.
 .
-### Rifampicin (10 mg/ml)
-Dissolve 20mg rifampicin (Sigma R3501) in 2ml Ethanol. Aliquot and store at -20˚C
+### Rifampicin (20 mg/ml)
+Dissolve 40mg rifampicin (Sigma R3501) in 2ml DMSO. Aliquot and store at -20˚C
 
