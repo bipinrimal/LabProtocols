@@ -16,4 +16,3 @@
 3. Store it in -20 fridge for 1 hr
 4. Take it out, incubate at 650 rpm at 4 (program 5) for 10 mins
 5. Spin it max at 3000 rpm for 10 mins
-```
