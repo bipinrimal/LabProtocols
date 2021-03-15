@@ -18,7 +18,7 @@
 15.	Take the weight of the tubes after drying (subtract the tube weight, to get the dry weight)
 16.	Add 550ul to 600ul of 0.1M PBS (D2O), centrifuge at max speed for 10min at 4oC. OR
 Add 60 ul of 0.1M PBS (D2O), centrifuge at max speed for 10min at 4oC.
-17.	Transfer 550ul (or 50ul) supernatants to NMR tubes. 
+17.	Transfer 550ul (or 60ul) supernatants to NMR tubes. 
 18.	Give to NMR guys.
  
 #### Preparation of 0.1M PBS solution containing 50% D2O.
