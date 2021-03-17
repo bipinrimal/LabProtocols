@@ -7,12 +7,13 @@
 
 ##### Plate layout
 
-| Media | Bsh+_Met_50  | Bsh+_Met_50  | Bsh+_Met_50  | Bsh+_Met_50  | Bsh+_Met_50  | Media | Bsh-_Met_50  | Bsh-_Met_50  | Bsh-_Met_50  | Bsh-_Met_50  | Bsh-_Met_50  |
-|-------|--------------|--------------|--------------|--------------|--------------|-------|--------------|--------------|--------------|--------------|--------------|
-| Media | Bsh+_Met_20  | Bsh+_Met_20  | Bsh+_Met_20  | Bsh+_Met_20  | Bsh+_Met_20  | Media | Bsh-_Met_20  | Bsh-_Met_20  | Bsh-_Met_20  | Bsh-_Met_20  | Bsh-_Met_20  |
-| Media | Bsh+_Met_10  | Bsh+_Met_10  | Bsh+_Met_10  | Bsh+_Met_10  | Bsh+_Met_10  | Media | Bsh-_Met_10  | Bsh-_Met_10  | Bsh-_Met_10  | Bsh-_Met_10  | Bsh-_Met_10  |
-| Media | Bsh+_Met_5   | Bsh+_Met_5   | Bsh+_Met_5   | Bsh+_Met_5   | Bsh+_Met_5   | Media | Bsh-_Met_5   | Bsh-_Met_5   | Bsh-_Met_5   | Bsh-_Met_5   | Bsh-_Met_5   |
-| Media | Bsh+_Met_1   | Bsh+_Met_1   | Bsh+_Met_1   | Bsh+_Met_1   | Bsh+_Met_1   | Media | Bsh-_Met_1   | Bsh-_Met_1   | Bsh-_Met_1   | Bsh-_Met_1   | Bsh-_Met_1   |
-| Media | Bsh+_Met_0.5 | Bsh+_Met_0.5 | Bsh+_Met_0.5 | Bsh+_Met_0.5 | Bsh+_Met_0.5 | Media | Bsh-_Met_0.5 | Bsh-_Met_0.5 | Bsh-_Met_0.5 | Bsh-_Met_0.5 | Bsh-_Met_0.5 |
-| Media | Bsh+_Met_0.1 | Bsh+_Met_0.1 | Bsh+_Met_0.1 | Bsh+_Met_0.1 | Bsh+_Met_0.1 | Media | Bsh-_Met_0.1 | Bsh-_Met_0.1 | Bsh-_Met_0.1 | Bsh-_Met_0.1 | Bsh-_Met_0.1 |
-| Media | Bsh+_Bfrag   | Bsh+_Bfrag   | Bsh+_Bfrag   | Bsh+_Bfrag   | Bsh+_Bfrag   | Media | Bsh-_Bfrag   | Bsh-_Bfrag   | Bsh-_Bfrag   | Bsh-_Bfrag   | Bsh-_Bfrag   |
+| Well | 1     | 2          | 3          | 4          | 5          | 6          | 7     | 8          | 9          | 10         | 11         | 12         |
+|------|-------|------------|------------|------------|------------|------------|-------|------------|------------|------------|------------|------------|
+| A    | Media | Bsh+_M_50  | Bsh+_M_50  | Bsh+_M_50  | Bsh+_M_50  | Bsh+_M_50  | Media | Bsh-_M_50  | Bsh-_M_50  | Bsh-_M_50  | Bsh-_M_50  | Bsh-_M_50  |
+| B    | Media | Bsh+_M_20  | Bsh+_M_20  | Bsh+_M_20  | Bsh+_M_20  | Bsh+_M_20  | Media | Bsh-_M_20  | Bsh-_M_20  | Bsh-_M_20  | Bsh-_M_20  | Bsh-_M_20  |
+| C    | Media | Bsh+_M_10  | Bsh+_M_10  | Bsh+_M_10  | Bsh+_M_10  | Bsh+_M_10  | Media | Bsh-_M_10  | Bsh-_M_10  | Bsh-_M_10  | Bsh-_M_10  | Bsh-_M_10  |
+| D    | Media | Bsh+_M_5   | Bsh+_M_5   | Bsh+_M_5   | Bsh+_M_5   | Bsh+_M_5   | Media | Bsh-_M_5   | Bsh-_M_5   | Bsh-_M_5   | Bsh-_M_5   | Bsh-_M_5   |
+| E    | Media | Bsh+_M_1   | Bsh+_M_1   | Bsh+_M_1   | Bsh+_M_1   | Bsh+_M_1   | Media | Bsh-_M_1   | Bsh-_M_1   | Bsh-_M_1   | Bsh-_M_1   | Bsh-_M_1   |
+| F    | Media | Bsh+_M_0.5 | Bsh+_M_0.5 | Bsh+_M_0.5 | Bsh+_M_0.5 | Bsh+_M_0.5 | Media | Bsh-_M_0.5 | Bsh-_M_0.5 | Bsh-_M_0.5 | Bsh-_M_0.5 | Bsh-_M_0.5 |
+| G    | Media | Bsh+_M_0.1 | Bsh+_M_0.1 | Bsh+_M_0.1 | Bsh+_M_0.1 | Bsh+_M_0.1 | Media | Bsh-_M_0.1 | Bsh-_M_0.1 | Bsh-_M_0.1 | Bsh-_M_0.1 | Bsh-_M_0.1 |
+| H    | Media | Bsh+_M_0   | Bsh+_M_0   | Bsh+_M_0   | Bsh+_M_0   | Bsh+_M_0   | Media | Bsh-_M_0   | Bsh-_M_0   | Bsh-_M_0   | Bsh-_M_0   | Bsh-_M_0   |
