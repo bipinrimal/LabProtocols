@@ -3,7 +3,6 @@
 **Date: 03/22/21**
 
 ### 1. *Bacteroides fraglilis*
-#### a. Bsh(+) and Bsh(-)
 
 ##### Plate layout
 
@@ -17,6 +16,12 @@
 | F    | Media | B+_10 | B+_1 | B+_0.1 | B+_p4 | B-_10 | B-_1 | B-_0.1 | Media | B__10 | B__1 | B__0.1 |
 | G    | Media | B+_10 | B+_1 | B+_0.1 | B+_p4 | B-_10 | B-_1 | B-_0.1 | Media | B__10 | B__1 | B__0.1 |
 | H    | Media | B+_10 | B+_1 | B+_0.1 | B+_p4 | B-_10 | B-_1 | B-_0.1 | Media | B__10 | B__1 | B__0.1 |
+
+**Legend:**
+1. B+ : *Bacteroides fragilis* Bsh(+) 
+2. B- : *Bacteroides fragilis* Bsh(-) 
+3. B  : *Bacteroides fragilis* ATCC 
+
 
 ##### Metformin (Stock 200mM)
 | Treatment | Bsh+  | Bsh-  | B.fragilis |
