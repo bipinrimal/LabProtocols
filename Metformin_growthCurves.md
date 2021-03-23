@@ -24,7 +24,7 @@
 
 
 ##### Metformin (Stock 200mM)
-| Treatment | Bsh+  | Bsh-  | B.fragilis |
+| Treatment | Bsh+  | Bsh-  | ATCC       |
 |-----------|-------|-------|------------|
 | 20mM      | 100ul | 100ul | 100ul      |
 | 10mM      | 50ul  | 50ul  | 50ul       |
@@ -34,7 +34,7 @@
 | 0.0mM     | 0.5ul | 0.5ul | 0.5ul      |
 
 ##### Water
-| Treatment | Bsh+   | Bsh-   | B.fragilis |
+| Treatment | Bsh+   | Bsh-   | ATCC       |
 |-----------|--------|--------|------------|
 | 20mM      | 0ul    | 0ul    | 0ul        |
 | 10mM      | 50ul   | 50ul   | 50ul       |
@@ -44,7 +44,7 @@
 | 0.0mM     | 99.5ul | 99.5ul | 99.5ul     |
 
 #### Culture 
-| Treatment | Bsh+  | Bsh-  | B.fragilis |
+| Treatment | Bsh+  | Bsh-  | ATCC       |
 |-----------|-------|-------|------------|
 | 20mM      | 900ul | 900ul | 900ul      |
 | 10mM      | 900ul | 900ul | 900ul      |
