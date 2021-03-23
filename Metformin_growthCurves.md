@@ -3,7 +3,7 @@
 **Date: 03/22/21**
 
 ### 1. *Bacteroides fraglilis*
-Overnight culture of bacteria were diluted 1:100 (100 ul in 9900 media)
+Overnight culture of bacteria were diluted 1:100 (100 ul in 9900ul media)
 
 ##### Plate layout
 
