@@ -14,7 +14,7 @@
 | BHI | 3.75 g | BD 237500 | - | 37g/L |
 | Agar | 1.5 g | Sigma A5306 | - | 15 g/L |
 | Cysteine | 2 mL | Sigma 168149 | 10% w/v | 0.05% w/v |
-| Hemin | 500 µL | Sigma 51280 | 5 mg/mL | 1 µg/mL |
+| Hemin | 100 µL | Sigma 51280 | 5 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
 | Resazurin | 1.6 mL | Sigma R7017 |0.025% w/v | 0.0001% w/v |
 
@@ -44,8 +44,8 @@
 | Water | Up to 360 mL | - | - | - | - |
 | BHI | 14.8 g | BD 237500 | - | 37 g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
-| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
-| Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
+| Cysteine | 2 mL | Sigma 168149 | 10% w/v | 0.05% w/v|
+| Hemin | 100 µL | Sigma 51280 | 5 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
 | Resazurin | 1.6 mL | Sigma R7017 | 0.025% w/v | 0.0001% w/v |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
@@ -63,7 +63,7 @@
 | Water | Up to 360 mL | - | - | - | - |
 | Gifu Anaerobic Broth | 23.6 g | HiMedia M1801 | - | 59 g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
-| Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
+| Hemin | 100 µL | Sigma 51280 | 5 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
@@ -78,7 +78,7 @@
 | BHI | 14.8 g | BD 237500 | - | 37g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
 | Yeast Extract | 2 g | Fisher BP9727 |-| 5 g/L |
-| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
+| Cysteine | 2 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
 
 
 ***
